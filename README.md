@@ -15,7 +15,8 @@
   `Edge`, `Google Chrome`, `Visual Studio Code`, `Visual Studio`, `...`(😎You know)
 
 # END
-## Get
+ - ✨ Geting ***sarts***.
+ - 🤝 Helping me for the code.
 
 <!---
 dontLoveby/dontLoveby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
