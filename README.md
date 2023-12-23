@@ -11,7 +11,7 @@
 - 💞️ I like writing the code, such as `C++`,`C#`, `JavaScript` and `Python`.
 ## Can
 - 😶 I can use `C++`,`C#`, `C`, `Python`, `JavaScript`, `HTML`, `CSS`, `Kitten`,
-  `Scratch`, `Windows-xp, Windows-7, Windows-8.x, Windows-10, Windows-11`(<OS of Windows>),
+  `Scratch`, `Windows-xp, Windows-7, Windows-8.x, Windows-10, Windows-11`(`OS of Windows`),
   `Edge`, `Google Chrome`, `Visual Studio Code`, `Visual Studio`, `...`(😎)
 
 # END
