@@ -8,15 +8,15 @@
 - 📫 How to reach me ...
 --->
 ## Like
-- 💞️ I like writing the code, such as `C++`, `JavaScript` and `Python`.
+- 💞️ I like writing the code, such as `C++`,`C#`, `JavaScript` and `Python`.
 ## Can
-- 😶 I can use `C++`, `C`, `Python`, `JavaScript`, `HTML`, `CSS`, `Kitten`,
-  `Scratch`, `Windows-xp, Windows-7, Windows-8.x, Windows-10, Windows-11`(system of `Windows`),
-  `Edge`, `Google Chrome`, `Visual Studio Code`, `Visual Studio`, `...`(😎You know)
+- 😶 I can use `C++`,`C#`, `C`, `Python`, `JavaScript`, `HTML`, `CSS`, `Kitten`,
+  `Scratch`, `Windows-xp, Windows-7, Windows-8.x, Windows-10, Windows-11`(<OS of Windows>),
+  `Edge`, `Google Chrome`, `Visual Studio Code`, `Visual Studio`, `...`(😎)
 
 # END
- - ✨ Geting ***sarts***.
- - 🤝 Helping me for the code.
+ - ✨ Don't geting ***sarts***.
+ - 🤝 Helping my code.
 
 <!---
 dontLoveby/dontLoveby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
