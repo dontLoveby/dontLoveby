@@ -7,16 +7,20 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-## 不喜欢的
+## 喜欢的(LIKE)
 - 💞️ 喜欢写 `C++`,`C#`, `JavaScript` 和 `Python`(`仅仅只是喜欢`).
-## 不会的
-- 😶我不会的有`C++`,`C#`, `C`, `Python`, `JavaScript`, `HTML`, `CSS`, `Kitten`,
-  `Scratch`, `Windows-xp, Windows-7, Windows-8.x, Windows-10, Windows-11`(`Windows的大部分系统`),
+- 
+## 会的(CAN)
+- 😶我会的有`C++`,`C#`, `C`, `Python`, `JavaScript`, `HTML`, `CSS`, `Kitten`,
+  `Scratch`, `Windows-xp, Windows-7, Windows-8.x, Windows-10, Windows-11`,
   `Edge`, `Google Chrome`, `Visual Studio Code`, `Visual Studio`, `...`(😎)
+## 联系方式
+邮箱：`laya200900@outlook.com`
+QQ群：`701429436`
 
 # 最后
  - ✨ 不要给***Sarts***.
- - 🤝 Helping my code.
+ - 🤝 对我的编程给予帮助.
 
 <!---
 dontLoveby/dontLoveby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
